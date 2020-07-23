@@ -21,7 +21,6 @@ class Person {
 
 }
 
-
 void main() {
     var p = new Person("Python大星", 10);
     p.getInfo(p.name, p.age);
