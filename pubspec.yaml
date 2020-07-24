@@ -1,0 +1,4 @@
+name: mydart
+description: A new dart application
+dependencies:
+  http: ^0.11.2
